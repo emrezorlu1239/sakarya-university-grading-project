@@ -1,0 +1,12 @@
+﻿  ProgramlamayaGiris_Odev1.cpp
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(54,32): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(69,25): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(199,17): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(259,49): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(269,40): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(273,24): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(281,40): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(286,24): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(410,39): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1\ProgramlamayaGiris_Odev1.cpp(413,39): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ProgramlamayaGiris_Odev1.vcxproj -> C:\Users\emrez\source\repos\ProgramlamayaGiris_Odev1\x64\Debug\ProgramlamayaGiris_Odev1.exe
